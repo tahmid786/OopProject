@@ -24,9 +24,9 @@ Personal Diary Management System is a console application that allows users to r
 
 
 ### Contact
-Name:Kh. Tahmid Alam
-Roll:2007100
-Section:B
-Year:2nd
-Term:1st
-Email:tahmidrefat876@gmail.com
+Name:Kh. Tahmid Alam<br/>
+Roll:2007100<br/>
+Section:B<br/>
+Year:2nd<br/>
+Term:1st<br/>
+Email:tahmidrefat876@gmail.com<br/>
