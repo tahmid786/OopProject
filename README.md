@@ -12,7 +12,7 @@ Personal Diary Management System is a console application that allows users to r
 * Delete Previous Records 
 
 
-# OOP Features
+## OOP Features
 * Class
 * Nested Function
 * Constructor
@@ -21,3 +21,12 @@ Personal Diary Management System is a console application that allows users to r
 * Inheritance
 * Stl
 * Many More
+
+
+### Contact
+Name:Kh. Tahmid Alam
+Roll:2007100
+Section:B
+Year:2nd
+Term:1st
+Email:tahmidrefat876@gmail.com
